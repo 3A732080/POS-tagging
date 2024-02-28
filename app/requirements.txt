@@ -1,0 +1,3 @@
+spacy
+weaviate-client==4.4.4
+sentence-transformers
